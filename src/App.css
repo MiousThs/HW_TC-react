@@ -1,0 +1,32 @@
+.add-contact {
+  display: flex;
+  flex-direction: column;
+}
+
+.buttons-1 {
+  display: flex;
+}
+.buttons-1 button {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-color: #3f334d;
+  border: 2px solid black;
+  color: white;
+}
+
+.searchBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px;
+}
+
+.searchBar button {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #3f334d;
+  border: 2px solid black;
+  color: white;
+}
